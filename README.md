@@ -1,3 +1,3 @@
 
-![raifpy's github stats](https://github-readme-stats.vercel.app/api?username=raifpy&show_icons=true&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raifpy&langs_count=9&hide=javascript,html,css&layout=compact&theme=light)
+![raifpy's github stats](https://github-readme-stats.vercel.app/api?username=raifpy&show_icons=true&theme=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raifpy&langs_count=9&hide=javascript,html,css&layout=compact&theme=black)
